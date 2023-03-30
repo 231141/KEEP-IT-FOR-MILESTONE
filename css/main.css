@@ -1,0 +1,137 @@
+/* header{
+    width: 100%;
+    height: 950px;
+} */
+
+header{
+    width: 100%;
+    height: 600px;
+    /*background-image: url("../assets/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg");*/
+    background-image: url("../assets/logic_no_pressure_home_cover_image.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.nav-con{
+    float: left;
+    width: 45%;
+    padding-top: 10px;
+}
+
+.nav-button{
+    height: 20px;
+    text-decoration: none;
+    color: black;
+    float: left;
+    padding-right: 50px;
+    cursor: pointer;
+}
+
+.logo{
+    padding-left: 30px;
+    padding-top: 10px; 
+    float: left;
+    margin-right: 20px;
+}
+
+/* .col-7{
+    width: 9%;
+    height: 100px;
+    float: left;
+    margin-left: 3%;
+    text-align: center;
+    padding-top: 35px;
+    font-size: 16px;
+} */
+
+.button-group{
+    /* width: 400px; */
+    height: 50px;
+   }
+
+.button{
+    width: 225px;
+    height: 40px;
+    border: 2px solid #2b2b2b;
+    border-radius: 50px;
+    text-align: center;
+    padding-top: 6px;
+    margin-right: 3%;
+    font-weight: bold;
+    margin-top: 30px;
+    float: left;
+}
+
+.normal{
+    color: #2b2b2b;
+}
+.normal:hover {
+    background-color: #2b2b2b;
+    color: white;
+    border: 2px solid #2b2b2b;
+    padding-top: 5px !important;
+    cursor: pointer;
+
+}
+
+.homeLocation{
+    padding-top: 20%;
+    padding-left: 15%;
+}
+
+
+.image{
+    width: 300px;
+    height: 300px;
+    background-color: lightgrey;
+    background-size: cover;
+    background-position: center;
+    margin: 0 auto ;
+    margin-top: 20px;
+}
+
+.Search{
+    padding-left: 30px;
+    padding-top: 10px; 
+    float: right;
+    
+}
+
+.Search input{
+    border-radius: 50px;
+    width: 300px;
+    height: 60px;
+    padding-left:20px ;
+}
+
+.image-round-1{
+    width: 450px;
+    height: 250px;
+    background-color: grey;
+    margin-top: -50px;
+    z-index: 2;
+    margin-left: 200px;
+    position: absolute;
+
+
+}
+.image-round{
+    margin-top: -50px;
+    width: 450px;
+    
+    height:350px;
+    background-color: #2b2b2b;
+    z-index: 1;
+}
+
+.image-round-text{
+    margin-left: 50px;
+
+}
+
+.image-1 {
+    color: white;
+}
+
+
+
